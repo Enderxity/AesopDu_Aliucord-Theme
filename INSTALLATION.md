@@ -17,10 +17,10 @@ Download [AesopDu.json](https://github.com/Enderxity/AesopDu_Aliucord-Theme/rele
 
 After download is complete, go to your download folder in your file manager
 
-[Image2](https://media.discordapp.net/attachments/1014383243530875000/1014385813137657967/Screenshot_2022-08-31-12-06-36-44.jpg)
+![Image2](https://media.discordapp.net/attachments/1014383243530875000/1014385813137657967/Screenshot_2022-08-31-12-06-36-44.jpg)
 
 Copy it to "themes" folder inside "Aliucord" folder located at device storage (not sd card)
 
-[Image3](https://media.discordapp.net/attachments/1014383243530875000/1014386659409809518/Screenshot_2022-08-31-12-10-05-71.jpg)
+![Image3](https://media.discordapp.net/attachments/1014383243530875000/1014386659409809518/Screenshot_2022-08-31-12-10-05-71.jpg)
 
 Now relaunch your Aliucord and enjoy your new AesopDu Theme!!
