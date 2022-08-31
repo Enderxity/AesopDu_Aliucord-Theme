@@ -12,9 +12,9 @@ I can't fully develop a theme yet so this theme is custom fork of "CalmLanscape 
 | <img src="https://github.com/Enderxity/AesopDuXAliucord/blob/main/Chat.jpg?raw=true" width="120" alt="Chat"/> | <img src="https://github.com/Enderxity/AesopDuXAliucord/blob/main/ChannelList.jpg?raw=true" width="120" alt="ChannelList"/> | <img src="https://github.com/Enderxity/AesopDuXAliucord/blob/main/MemberList.jpg?raw=true" width="120" alt="Member List"/>  |  <img src="https://github.com/Enderxity/AesopDuXAliucord/blob/main/Setiings.jpg?raw=true" width="120" alt="Settings"/>  |
 
 
-###--INSTALLATION GUIDE--
+# --INSTALLATION GUIDE--
 
-###Early Configuration 
+### Early Configuration 
 First Up, you need to install "Themer" Plugin in aliucord's official discord server or use "plugin repo" plugin to install it
 
 ![image](https://media.discordapp.net/attachments/1014383243530875000/1014383273373351956/Screenshot_2022-08-31-11-52-14-10.jpg)
@@ -27,7 +27,7 @@ And configure the Themer settings to like this
 
 Now you are ready to install AesopDu 1 Year Anniversary theme!
 
-###Installation 
+# Installation 
 
 Download [AesopDu.json](https://github.com/Enderxity/AesopDu_Aliucord-Theme/releases/download/Release/AesopDu.json) to get theme file
 
